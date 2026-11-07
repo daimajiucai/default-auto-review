@@ -6,6 +6,14 @@
   "main": "index.js",
   "author": "DJH",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daimajiucai/default-auto-review.git"
+  },
+  "homepage": "https://github.com/daimajiucai/default-auto-review#readme",
+  "bugs": {
+    "url": "https://github.com/daimajiucai/default-auto-review/issues"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
