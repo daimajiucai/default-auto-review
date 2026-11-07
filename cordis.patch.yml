@@ -1,0 +1,5 @@
+# Bundle patch: appended to the host profile's loader layers when this package
+# is installed with `dsh plugin --profile <name> add`.
+- insert:
+    - id: default-auto-review
+      name: dsh-plugin-default-auto-review

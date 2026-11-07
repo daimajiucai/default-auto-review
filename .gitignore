@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Local runtime artifacts
+*.log
+*.tmp
+tmp/
+dist/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Never commit secrets or machine-local config
+*.local.json
+secrets.json
+.env

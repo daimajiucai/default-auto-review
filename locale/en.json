@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Default session mode",
+    "description": "Starts every new session in a chosen permission mode (Auto review by default) and lets you change that mode, and how resumed or delegated sessions are treated, from the right-hand panel."
+  }
+}

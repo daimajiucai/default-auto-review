@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Default session mode">
+  <defs>
+    <linearGradient id="dsm-sky" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#dsm-sky)"/>
+  <path d="M32 11.5 48 17.6v12.1c0 8.8-6.4 16.4-16 19.9-9.6-3.5-16-11.1-16-19.9V17.6l16-6.1z"
+        fill="#ffffff" fill-opacity="0.2" stroke="#ffffff" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M23.6 30.4l5.6 5.6 11.2-11.2" fill="none" stroke="#ffffff" stroke-width="3.4"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
